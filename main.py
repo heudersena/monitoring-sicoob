@@ -9,7 +9,6 @@ import src.log as log
 sg.theme("SandyBeach")
 
 
-
 colonyList = []
 
 # iniciar dados
